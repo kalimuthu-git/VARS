@@ -1,3 +1,3 @@
 def call() {
-    sh 'mvn clean package'
+    sh "hello world this is jenkins file"
 }
